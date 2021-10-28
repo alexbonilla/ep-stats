@@ -32,7 +32,7 @@ export default function Home() {
     <>
       <section id="about" className="container mt-4 mb-6 has-text-centered">
         <h1 className="title is-1">Miniboat Statistics</h1>
-        <h2 className="subtitle is-3">Ordered by "deployment_id"</h2>
+        <h2 className="subtitle is-3">Ordered by deployment_id</h2>
         <h3 className="subtitle is-4"><i>(Note: Speeds not accurate for those units ahsore.)</i></h3>
       </section>
       <section id="about" className="container mt-4 mb-6">
